@@ -1,0 +1,68 @@
+Xinghua Peng
+DS 2001
+Program Outputs
+
+1. Find all genes linked to Asthma
+
+All genes linked to Asthma: ['IRF1', 'ADAM33', 'CYP2J2', 'LTA', 'NOS2A', 
+'TBX21', 'MYLK', 'IL4', 'TIMD4', 'TBXA2R', 'PTGDR', 'MMP9', 'CYSLTR1', 
+'RNASE3', 'NAT1', 'STAT4', 'SCGB3A2', 'PDGFRA', 'SCGB1A1', 'IFNG', 'HLA-DRB1',
+ 'IL4R', 'CD14', 'HLA', 'RUNX1', 'DQ1B', 'IL17F', 'PAFAH', 'CYSLTR2', 'IL13', 
+ 'STAT3', 'CHRM1', 'TNF', 'NAT2', 'IL9', 'KDR', 'IL16', 'IL15', 'IL13RA1', 
+ 'CCL11', 'EGFR', 'HAVCR1', 'NOS3', 'IL12B', 'CCR5', 'FCGR1B', 'GSTT1', 
+ 'MUC7', 'GPR44', 'PGDS', 'CYP1A1', 'LTC4S', 'ALOX5', 'CCR3', 'PHF11', 
+ 'TLR10', 'IL10', 'NOS1', 'HLA-DQB1', 'TAP1', 'BDKRB2', 'TLR2', 'DAP3', 
+ 'C3', 'EDN1', 'MT-CO2', 'TLR4', 'GSTM1', 'DEFB1', 'ADRB2', 'AOAH', 'CMA1', 
+ 'GSTM3', 'AICDA', 'ALOX5AP', 'IL1RA', 'CXCR3', 'IL18', 'GSTP1', 'CCL5', 
+ 'GATA3', 'ABO', 'BAT1', 'HNMT', 'CCL2', 'CRHR1', 'CTLA4', 'IL1B', 'CLCA1', 'HLA-DQA1']
+
+2. Figure out which disease (other than asthma) is also linked to the greatest number of asthma-linked genes.
+
+Best match to asthma: diabetes type 1 (18 genes.)
+
+
+3. Google Asthma and the name of your disease. Does research suggest a biological connection between these
+two diseases? In your submission, provide an example URL.
+
+Yes, the research suggest that there is a biological connection between Asthma and the diabetes type 1. 
+
+Example URL: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4616625/
+
+Other Examples URLs as follows: 
+- https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2762680
+- https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8198343/
+- https://www.diabetesselfmanagement.com/education/diabetes-and-asthma-is-there-a-link/
+- https://www.diabetes.co.uk/news/2017/jun/finnish-study-examines-links-between-type-1-diabetes-and-asthma-93345053.html
+
+
+4. Survey all diseases. For each disease find the disease having the most gene overlaps. 
+
+Survey all diseases and find the most gene overlaps
+alzheimers disease diabetes type 2 21
+asthma diabetes type 1 18
+atherosclerosis coronary myocardial infarct 26
+bipolar disorder schizophrenia 15
+bladder cancer lung cancer 23
+breast cancer prostate cancer 39
+cardiovascular atherosclerosis coronary 15
+colorectal cancer breast cancer 36
+coronary artery disease atherosclerosis coronary 20
+diabetes type 1 diabetes type 2 26
+diabetes type 2 obesity 28
+endometrial cancer breast cancer 16
+endometriosis breast cancer 15
+esophageal cancer lung cancer 18
+graves disease diabetes type 1 17
+hypertension diabetes type 2 20
+lung cancer breast cancer 33
+lupus erythematosus rheumatoid arthritis 15
+multiple sclerosis diabetes type 1 16
+myocardial infarct atherosclerosis coronary 26
+myocardial infarction atherosclerosis coronary 18
+obesity diabetes type 2 28
+parkinsons disease alzheimers disease 17
+periodontitis rheumatoid arthritis 15
+prostate cancer breast cancer 39
+rheumatoid arthritis diabetes type 1 23
+schizophrenia alzheimers disease 19
+stomach cancer breast cancer 21
