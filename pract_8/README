@@ -1,0 +1,20 @@
+FILE FORMATS
+
+stations.csv
+- Station ID (Int)
+- WBAN ID (Int)  "Weather Bureau Army Navy" (IGNORE)
+- GPS Latitude (Decimal)
+- GPS Longitude (Decimal)
+
+yyyy.csv (yyyy = year)
+- StationID (Int)
+- WBANID (Int) (IGNORE)
+- Month (Int)
+- Day (Int)
+- Temperature / degrees F (Decimal)
+
+
+Stations are identified by the combination of their Station ID and WBAN ID. 
+Either of these IDs might be NULL.
+
+ 
